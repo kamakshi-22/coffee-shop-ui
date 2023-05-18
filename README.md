@@ -1,6 +1,9 @@
-# coffee_ui
+# Coffee Shop UI
+- Inspired by this [dribble design](https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode)
 
-A new Flutter project.
+![image](https://github.com/kamakshi-22/coffee-shop-ui/assets/55135926/e789cea6-53bb-49ee-86af-34ac0b0562bd)
+
+
 
 ## Getting Started
 
